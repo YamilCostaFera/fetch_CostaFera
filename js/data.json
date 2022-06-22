@@ -1,0 +1,33 @@
+[{
+    "imagen": "./img/chessecake.jpg",
+    "nombre": "CheeseCake",
+    "ingredientes": "Base de galletitas de vainillas, crema de queso, mermelada de frutos rojos y mix de frutos rojos deco",
+    "porciones": "10",
+    "peso": "1,800kg",
+    "precio": "$1950"
+},
+{
+    "imagen": "./img/tiramisu.jpg",
+    "nombre": "Tiramisu",
+    "ingredientes": "Postre frio a base de vainillas embebidas en cafe, crema de queso, decorado con cacao amargo",
+    "porciones": "10",
+    "peso": "1,500kg",
+    "precio": "$1650"
+},
+{
+    "imagen": "./img/tarta_frutillas.jpg",
+    "nombre": "TartaDeFrutillas",
+    "ingredientes": "PBase de masa sable, frutillas y crema/crema pastelera",
+    "porciones": "10",
+    "peso": "1,800kg",
+    "precio": "$2100"
+},
+{
+    "imagen": "./img/lemon_pie.jpg",
+    "nombre": "LemonPieCake",
+    "ingredientes": "Base de masa sable, crema de limón y Merengue Italiano",
+    "porciones": "10",
+    "peso": "1,400kg",
+    "precio": "$1500"
+}
+]
